@@ -65,7 +65,7 @@ while(nombreIterator.hasNext()){
   
 
 //Lambda
- /*  Ordenar gcd = (val,vald,cadenas) -> {
+   Ordenar gcd = () -> {
         System.out.println("--------------------------Acomodo por orden alfabético-por clase anónoima-------------------");
        Collections.sort(cadenas);
    
@@ -82,10 +82,10 @@ while(nombreIterator.hasNext()){
         };
         
         return null;
-        };
+        ;
       
 
-    }*/
-     }
+    }
+     
    
 
